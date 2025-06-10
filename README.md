@@ -3,7 +3,7 @@ This project documents the setup and execution of virtual machines of Kali Linux
 ## TOOLS AND TECH
 - **Kali Linux VM**
 - **Ubuntu Server VM**
--Nmap
+- **Nmap**
 ## OBJECTIVES
 - Perform Nmap scans to identify live hosts and enumerate open/closed ports 
 - Analyze identified services and detect potentially vulnerable services running on target systems 
