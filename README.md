@@ -1,5 +1,5 @@
 # Network-Security-Monitoring-Lab-
-This project documents the setup and execution of virtual machines of Kali Linux and Ubuntu which were running on a local host machine, including both offensive and defensive systems. Nmap was utilized to perform active network scanning, to identify open and closed ports, and enumerate running services on target systems. 
+This project documents the setup and execution of virtual machines of Kali Linux and Ubuntu which were running on a local host machine, including both offensive and defensive systems. Nmap was utilized to perform active network scanning, identify open and closed ports, and enumerate running services on target systems. 
 ## TOOLS AND TECH
 -Kali Linux VM
 -Ubuntu Server VM
