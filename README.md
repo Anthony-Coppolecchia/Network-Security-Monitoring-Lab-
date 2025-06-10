@@ -4,7 +4,7 @@ This project documents the setup and execution of virtual machines of Kali Linux
 -Kali Linux VM
 -Ubuntu Server VM
 -Nmap
-##OBJECTIVES
+## OBJECTIVES
 - Perform Nmap scans to identify live hosts and enumerate open/closed ports 
 - Analyze identified services and detect potentially vulnerable services running on target systems 
 - Gain hands-on experience using Nmap commands, flags, and scan types 
@@ -22,7 +22,7 @@ The Nmap scan performed from the Kali Linux VM identified multiple open ports on
 | 8080 | TCP       | Unknown          | Unidentified open service on alternate HTTP port |
 
 Note: Additional closed ports and filtered states were detected during the scan.
-##KEY OUTCOMES
+## OUTCOMES
 - Successfully identified open services operating on non-standard and potentially insecure ports 
 - Gained practical experience performing Nmap service enumeration and interpreting scan results 
 - Recognized the risks associated with unnecessary or poorly secured services running on networked systems 
